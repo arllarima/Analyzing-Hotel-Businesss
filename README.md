@@ -1,4 +1,7 @@
 # Analyzing-Hotel-Businesss
+Dataset : Provided by Rakamin Academy
+Programming Language : Python
+
 ## Overview
 Sangat penting bagi perusahaan untuk selalu menganalisis kinerja bisnisnya. Analisis kinerja bisnis dapat membantu mengidentifikasi masalah dan kemudian menerapkan strategi untuk mengatasi masalah tersebut sehingga perusahaan dapat mencapai potensi optimalnya. <br>
 Kali ini saya akan mendalami industri perhotelan untuk mencari tahu. Fokus saya adalah menganalisis perilaku pelanggan selama reservasi hotel dan faktor apa yang memengaruhi tingkat pembatalan reservasi. Hasil insight yang saya temukan nantinya akan disajikan melalui visualisasi untuk pemahaman yang lebih baik. <br>
