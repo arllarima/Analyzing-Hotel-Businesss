@@ -30,7 +30,7 @@ Dari visualisasi data diatas, dapat kita analisa bahwa: <br>
 <br>
 ### 2. Impact Analysis of Stay Duration on Hotel Bookings CancelLation Rate
 Analisis ini akan dilakukan untuk mencari tahu bagaimana korelasi antara durasi menginap terhadap tingkat pembatalan pemesanan hotel. <br>
-
+<br>
 <p align="center">
   <kbd><img src="additional/cancelation rate.png" width=600px> </kbd> <br>
   Gambar 2. Persentase Cancellation Rate terhadap Stay Duration
@@ -42,7 +42,7 @@ Dari visualisasi data diatas, dapat kita analisa bahwa: <br>
 <br>
 ### 3. Impact Analysis of Lead Time on Hotel Bookings CancelLation Rate
 Analisis ini akan dilakukan untuk mencari tahu bagaimana korelasi antara jarak waktu pemesanan hotel (lead time) terhadap tingkat pembatalan pemesanan hotel. <br>
-
+<br>
 <p align="center">
   <kbd><img src="additional/lead time cancelation rate.png" width=600px> </kbd> <br>
   Gambar 2. Persentase Cancellation Rate terhadap Lead Time
