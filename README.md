@@ -1,7 +1,7 @@
 # Analyzing-Hotel-Businesss
 **Dataset** : Provided by Rakamin Academy <br>
 **Programming Language** : Python <br>
-**Libraries** : Pandas, NumPy, Scipy, Matplotlib, Seaborn
+**Libraries** : Pandas, NumPy, Matplotlib, Seaborn
 
 ## Overview
 Sangat penting bagi perusahaan untuk selalu menganalisis kinerja bisnisnya. Analisis kinerja bisnis dapat membantu mengidentifikasi masalah dan kemudian menerapkan strategi untuk mengatasi masalah tersebut sehingga perusahaan dapat mencapai potensi optimalnya. <br>
